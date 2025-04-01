@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-tutorial", "c-sharp-tutorial\c-sharp-tutorial.csproj", "{D30680E6-6923-4016-BA1A-C4B051CF1296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30680E6-6923-4016-BA1A-C4B051CF1296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30680E6-6923-4016-BA1A-C4B051CF1296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30680E6-6923-4016-BA1A-C4B051CF1296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30680E6-6923-4016-BA1A-C4B051CF1296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

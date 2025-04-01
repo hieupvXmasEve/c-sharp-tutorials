@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use async methods for database operations to improve scalability
+- Implement proper transaction management for data integrity
+- Use eager loading judiciously to avoid N+1 query problems
+- Leverage migrations for database schema management
+- Use global query filters for soft delete functionality

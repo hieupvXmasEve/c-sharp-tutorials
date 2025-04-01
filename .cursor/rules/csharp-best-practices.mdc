@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use C# 10+ features like record types and pattern matching where appropriate
+- Prefer LINQ and lambda expressions for concise collection operations
+- Use 'var' for implicit typing when the type is obvious
+- Implement proper null handling using nullable reference types
+- Use async/await for I/O-bound operations to improve responsiveness

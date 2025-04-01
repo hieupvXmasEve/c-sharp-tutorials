@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use attribute routing for more flexible and maintainable routes
+- Implement proper error handling with global exception filters
+- Leverage built-in middleware for common tasks like authentication and CORS
+- Use dependency injection to promote loose coupling and testability
+- Implement health checks for monitoring application status

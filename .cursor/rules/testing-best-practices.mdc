@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+- Write unit tests using xUnit, NUnit, or MSTest
+- Use mocking libraries like Moq or NSubstitute for dependency isolation
+- Implement integration tests for critical API endpoints
+- Use test-driven development (TDD) for complex components
+- Set up continuous integration for automated testing

@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use XML comments to enhance Swagger documentation
+- Implement proper API versioning in Swagger UI
+- Use Swagger tags to group related endpoints
+- Customize Swagger UI for a better developer experience
+- Secure Swagger endpoints in production environments
